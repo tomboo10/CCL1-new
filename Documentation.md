@@ -86,4 +86,5 @@
 ---
 
 ### Day 11:  
-- Finally fixed the bomb detection functionality (with help). 
+- Finally fixed the bomb detection functionality (with help).
+- and finished draing & animations.
