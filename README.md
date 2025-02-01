@@ -60,13 +60,13 @@ Below are the sprites used to create characters and objects in the game:
 ## ✍️ **Reflection**
 
 ### What went well:
-- **Creative Design:** The theme and style came together seamlessly, and the sprites were fun to design.
-- **Core Mechanics:** The gravity-based gameplay worked better than expected and provided a unique challenge.
+- **implementation of different objects:** It was easier than expected, to create many objects with different functions.
+- **implementing the delay:** It also worked very well to implement the delay, that the surface only appears 10 seconds after the game has started.
 
 ### Challenges:
-- **Time Constraints:** Implementing all the features we envisioned wasn’t possible due to the limited timeframe.
-- **Bug Fixes:** Handling collisions and edge cases for gravity mechanics was tricky.
+- **bomb detection feature:** Implementing this item/feature took me ages but i got it in the end (with help).
+- **creating different levels:** It was pretty hard to create the different randomized maps according to the button, that has been pressed (easy, middle, advanced).
 
 ### Lessons Learned:
-- **Prototyping Matters:** Testing early prototypes helped refine the core mechanics quickly.
-- **Keep it Simple:** Focusing on one unique mechanic instead of multiple features made the game more polished.
+- **just start:** just start and not think too much in the beginning (once you have a rough plan).
+- **not getting stressed at the start:** Don't worry too much at the start, when things don't go that smooth and easy.
