@@ -46,12 +46,12 @@ Below are the sprites used to create characters and objects in the game:
 
 ### Items:
 <div style="text-align: center;">
-  <img src="cube_sprite_sheet.copy.png" alt="Enemy Spritesheet" width="500">
+  <img src="cube_sprite_sheet copy.png" alt="Enemy Spritesheet" width="500">
   <p>*Figure 4: cube animation.*</p>
 </div>
 
 <div style="text-align: center;">
-  <img src="heart_sprite_sheet.copy.png" alt="Enemy Spritesheet" width="500">
+  <img src="heart_sprite_sheet copy.png" alt="Enemy Spritesheet" width="500">
   <p>*Figure 4: extra life animation.*</p>
 </div>
 
