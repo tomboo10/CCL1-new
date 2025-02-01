@@ -14,7 +14,12 @@
 
 ### Main Gameplay:
 <div style="text-align: center;">
-  <img src="" alt="Gameplay Screenshot" width="600">
+  <img src="gameplayStart.png" alt="Gameplay Screenshot" width="600">
+  <p>*Figure 1: Example of gameplay in action.*</p>
+</div>
+
+<div style="text-align: center;">
+  <img src="GameplayPlay.png" alt="Gameplay Screenshot" width="600">
   <p>*Figure 1: Example of gameplay in action.*</p>
 </div>
 
