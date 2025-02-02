@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Hello, world!</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="" />
+  <link rel="stylesheet" type="text/css" href="./css/style.css" />
+  <link rel="icon" href="favicon.png">
+</head>
+<body>
+  <div id="gameContainer">
+
+    <div id="allGameThings">
+      <canvas id="canvas"></canvas>
+      <div id="orderText">
+        <h2 id="score">Your Score: 0</h2>
+        <h3 id="lives">Lives: 2</h3>
+        <h4 id="startTimer"></h4>
+      </div>
+    </div>
+    
+    
+     <div id="startGame">
+      <h1 id="gameTitle"></h1>
+      <input type="button" value="Beginner (36 points)" id="easyButton" ></input>
+      <input type="button" value="Medium (52 points)" id="middleButton" ></input>
+      <input type="button" value="Advanced (66 points) " id="hardButton" ></input>
+     </div>
+
+     <div id="gameEnd">
+      <h1 id="result"></h1>
+      <h2 id="beautifulQuote"></h2>
+      <h2 id="endScore">Your Score:</h2>
+      <input type="button" value="Restart" id="restartButton" ></input>
+     </div>
+
+  </div>
+  
+
+
+  <script type="module" src="./scripts/modules/global.js"></script>
+  <script type="module" src="./scripts/modules/input.js"></script>
+  <script type="module" src="./scripts/modules/main.js"></script>
+  
+</body>
+</html>
