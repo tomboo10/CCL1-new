@@ -3,12 +3,7 @@
 > **Short Pitch**: In this fast-paced mining game, you have 10 seconds to memorize the locations of gold, silver, and bombs before they vanish, and then race against time to collect treasures while avoiding deadly bombs.
 > 
 
----
 
-## 🌐 **Play the Game**
-[Click here to play the game!](https://your-github-username.github.io/repository-name)
-
----
 
 ## 📸 **Screenshots**
 
